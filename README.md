@@ -1,4 +1,5 @@
 =================JUST FOR FUN===================
+
 Simple php script to monitor apache logs.
 
 First you need to configurate your apachelogger.
